@@ -12,3 +12,14 @@
 ### 🎧 I'm 17 years old
 
 ### 🖇️Brazilian 
+
+
+
+# I LIKE ⋆｡°✩
+- anime / manga
+- spiders
+- drawing
+- music
+- fashion
+- design
+- brownies
