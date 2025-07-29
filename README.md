@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Design is where science and art break even" src="https://github.com/user-attachments/assets/cad60c10-d0f5-4fc9-a13e-fab4930b5477" />
+
 <h1 align="center">Hello, I'm Stefany Lino </h1>
 
 <p align="center">
