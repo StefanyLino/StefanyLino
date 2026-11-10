@@ -3,13 +3,13 @@
 <h1 align="center">Hello, I'm Stefany Lino </h1>
 
 <p align="center">
-  <em>Systems Development Technician</em>
+  <em>Systems Development Technician/Computer Science Student @ Michigan State University</em>
 </p>
 
 ---
 
 <p align="center">
-  I'm a 18 year old girl, who's passionate about technology, art and design.<br>
+  I'm a 19 year old girl, who's passionate about technology, art and design.<br>
   Here you’ll find projects that I developed during high school.<br>
 </p>
 
